@@ -1,8 +1,8 @@
 # José Dario Pintor da Silva
 
 ## Informações de Contato
-- **Instituição:** Instituto Federal de Brasília
-- **Endereço:** Campus Brasília - SGAN Quadra 610 Módulos D, E, F, G, St. de Grandes Áreas Norte Quadra, Asa Norte, Brasília - DF, 70830-450
+- **Instituição:** Instituto Federal de Brasília -  Campus Brasília
+- **Endereço:** SGAN Quadra 610, Asa Norte, Brasília - DF, 70830-450
 - **E-mail:** dariocomp@gmail.com
 - **Lattes ID:** [http://lattes.cnpq.br/0370524014203647](http://lattes.cnpq.br/0370524014203647)
 
