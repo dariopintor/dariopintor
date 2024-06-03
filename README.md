@@ -1,9 +1,9 @@
 # José Dario Pintor da Silva
 
 ## Informações de Contato
-- **Instituição:** Instituto Federal do Amapá
-- **Endereço:** Rodovia BR-210 - até km 0,003, Brasil Novo, 68909398 - Macapá, AP - Brasil
-- **Telefone:** (96) 8134-0642
+- **Instituição:** Instituto Federal de Brasília
+- **Endereço:** Campus Brasília - SGAN Quadra 610 Módulos D, E, F, G, St. de Grandes Áreas Norte Quadra, Asa Norte, Brasília - DF, 70830-450
+- **E-mail:** dariocomp@gmail.com
 - **Lattes ID:** [http://lattes.cnpq.br/0370524014203647](http://lattes.cnpq.br/0370524014203647)
 
 ## Formação Acadêmica
