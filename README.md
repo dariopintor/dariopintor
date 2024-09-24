@@ -2,9 +2,9 @@
 
 ## Informações de Contato
 - **Instituição:** Instituto Federal de Brasília -  Campus Brasília
-- **E-mail pessoal:** jose.pintor@ifb.edu.com
 - **E-mail pessoal:** dariocomp@gmail.com
-- **E-mail da coordenação:** tds.cbra@ifb.edu.com
+- **E-mail pessoal:** jose.pintor@ifb.edu.br
+- **E-mail da coordenação:** tds.cbra@ifb.edu.br
 - **Lattes ID:** [http://lattes.cnpq.br/0370524014203647](http://lattes.cnpq.br/0370524014203647)
 
 ## Formação Acadêmica
