@@ -2,8 +2,9 @@
 
 ## Informações de Contato
 - **Instituição:** Instituto Federal de Brasília -  Campus Brasília
-- **Endereço:** SGAN Quadra 610, Asa Norte, Brasília - DF, 70830-450
-- **E-mail:** dariocomp@gmail.com
+- **E-mail pessoal:** jose.pintor@ifb.edu.com
+- **E-mail da coordenação:** tds.cbra@ifb.edu.com
+- **Atendimento aos estudante pode ser feito pelos contatos acima diratamente na coordenação no prédio administrativo
 - **Lattes ID:** [http://lattes.cnpq.br/0370524014203647](http://lattes.cnpq.br/0370524014203647)
 
 ## Formação Acadêmica
