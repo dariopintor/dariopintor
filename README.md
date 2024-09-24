@@ -4,9 +4,9 @@
 - **Instituição:** Instituto Federal de Brasília -  Campus Brasília
 - **E-mail pessoal:** jose.pintor@ifb.edu.com
 - **E-mail da coordenação:** tds.cbra@ifb.edu.com
-- **Atendimento aos estudante pode ser feito pelos contatos acima diratamente na coordenação no prédio administrativo
+- **Atendimento aos estudades:**  pode ser feito pelo contatos acima  ou diratamente na coordenação no prédio administrativo.
 - **Lattes ID:** [http://lattes.cnpq.br/0370524014203647](http://lattes.cnpq.br/0370524014203647)
-- - **Git ID:** [http://github.com/dariopintor](http://github.com/dariopintor)
+- **Git Hub:** [http://github.com/dariopintor](http://github.com/dariopintor)
 
 ## Formação Acadêmica
 - **Mestrado em Ciência da Computação**
